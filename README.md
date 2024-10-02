@@ -1,4 +1,4 @@
-# Collection of how-to's in git
+# Dr. Ragusa's Collection of How-To's in Git
 
 
 - [Install Git Bash Completion](./topics/bash_completion.md)
