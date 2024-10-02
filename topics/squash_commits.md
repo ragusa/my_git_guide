@@ -1,6 +1,6 @@
 # Squashing/Fixing commit history
 
-To collapse (squash) the two most recent commits into one, even though you've already pushed them, you can follow these steps. This process involves interactive rebasing and force-pushing, which rewrites the commit history. Since you've already pushed the commits, make sure you're aware of potential issues for collaborators who might have already pulled your branch.
+To collapse (squash) some recent commits into one, even though you've already pushed them, you can follow these steps. This process involves interactive rebasing and force-pushing, which rewrites the commit history. Since you've already pushed the commits, make sure you're aware of potential issues for collaborators who might have already pulled your branch.
 
 Here are the steps:
 
