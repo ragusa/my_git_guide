@@ -55,7 +55,7 @@ After making the change, save and close the editor. Git will squash the two comm
 
 ## Step 5: Force-push the changes
 
-Since you've already pushed the original two commits, you will need to force-push the squashed commit to overwrite the previous history:
+Since you've already pushed the original commits, you will need to force-push the squashed commit to overwrite the previous history:
 
 ```bash
 git push --force
