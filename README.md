@@ -1,7 +1,7 @@
 # Dr. Ragusa's Collection of How-To's in Git
 
 
-- [Install Git Bash Completion](./topics/git_bash_completion.md)
+- [Install Git Bash Completion](./topics/bash_completion.md)
 - [Set up an Editor for Git](./topics/setup_editor.md)
 - [Branching and Merging](./topics/branching_merging.md)
 - [Stashing and Cleaning](./topics/stashing_cleaning.md)
