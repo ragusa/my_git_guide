@@ -4,6 +4,9 @@
 - [Install Git Bash Completion](./topics/bash_completion.md)
 - [Set up an Editor for Git](./topics/setup_editor.md)
 
+## Quicker Start
+- [A 80-20 guide, for people in a somewhat of a hurry](./topics/80_20_guide.md)
+
 ## Fundamentals 
 - [Most Useful Git Commands](./topics/useful_commands.md)
 - [Branching and Merging](./topics/branching_merging.md)
